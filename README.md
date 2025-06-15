@@ -27,7 +27,6 @@
 ## 📸 Preview
 
 > _Screenshot placeholder_  
-> You can upload an image or GIF of the dashboard for visual impact.
 
 ---
 
@@ -104,17 +103,10 @@ Users can export analysis results in:
 
 ## 🧪 Testing
 
-Tests are not currently included. Suggested coverage:
-
-- Data validation
-- Statistical computation (unit tests)
-- Component rendering (React Testing Library)
+Tests are not currently included. 
 
 ---
 
-## 📜 License
-
-MIT License (Add a `LICENSE` file to officially declare this)
 
 ---
 
